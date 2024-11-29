@@ -13,5 +13,5 @@ Programa para adicionar postagens.
 
 ## Introdução
 
-<img src="https://ibb.co/3hLvKrH" alt="imagem-logo"/>
+<img src="https://github.com/Filipe-Mamed/Projeto-BlogApp/blob/main/public/img/BlogApp.png?raw=true" alt="imagem-logo"/>
 <br>
