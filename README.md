@@ -13,5 +13,5 @@ Programa para adicionar postagens.
 
 ## Introdução
 
-<img src="https://i.postimg.cc/RF37T6zX/BlogApp.png" alt="imagem-logo"/>
+<img src="https://postimg.cc/DJT4vz0X" alt="imagem-logo"/>
 <br>
