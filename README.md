@@ -13,5 +13,5 @@ Programa para adicionar postagens.
 
 ## Introdução
 
-<img src="https://postimg.cc/DJT4vz0X" alt="imagem-logo"/>
+<img src="https://ibb.co/3hLvKrH" alt="imagem-logo"/>
 <br>
